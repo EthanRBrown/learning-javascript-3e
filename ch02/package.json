@@ -1,0 +1,17 @@
+{
+  "name": "lj3e-ch02",
+  "version": "1.0.0",
+  "description": "Chapter 2 from Learning JavaScript, 3rd Edition (O'Reilly Media).",
+  "main": "dist/test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ethan Brown <e@zepln.com>",
+  "license": "MIT OR GPL-3.0",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.13.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-eslint": "^3.0.1"
+  }
+}
